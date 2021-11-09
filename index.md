@@ -14,11 +14,13 @@ My research interests are in artificial intelligence, computer vision, machine l
 ## WORK EXPERIENCES
 
 - 2021-Present
-  Research Assistant, Image and Video Computing (IVC) Group, University of Colorado Boulder
+  - Research Assistant, Image and Video Computing (IVC) Group, University of Colorado Boulder
 - 2019-2021
-  Research Assistant, Pervasive Artificial Intelligence Research (PAIR) Labs, National Chiao Tung University
-- 2017-2019       Computer Vision Engineer, Coretronic Corporation
-- 2017-2017       Research Intern, Lite-On Technology Corporation
+  - Research Assistant, Pervasive Artificial Intelligence Research (PAIR) Labs, National Chiao Tung University
+- 2017-2019
+  - Computer Vision Engineer, Coretronic Corporation
+- 2017-2017
+  - Research Intern, Lite-On Technology Corporation
 
 ## EXTERNAL TRAINING
 
