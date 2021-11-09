@@ -1,28 +1,25 @@
-## Test
-## Welcome to GitHub Pages
+## PERSONAL STATEMENT
 
-You can use the [editor on GitHub](https://github.com/EverleyTseng/EverleyTseng-github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+My research interests are in artificial intelligence, computer vision, machine learning, natural language processing and IoT. I have more than four years of researching and coding experiences in artificial intelligence. My current research is focused on Image Segmentation and Few-Shot Learning.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## EDUCATION
 
-### Markdown
+### 2021-Present    PhD, Computer Science, University of Colorado Boulder, US
+### 2019-2021       MS, Computational Intelligence, College of AI, National Chiao Tung University, Taiwan
+### 2013-2017       BS, Engineering and System Science, National Tsing Hua University, Taiwan
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## WORK EXPERIENCES
 
-```markdown
-Syntax highlighted code block
+### 2021-Present    Research Assistant, Image and Video Computing (IVC) Group, University of Colorado Boulder
+### 2019-2021       Research Assistant, Pervasive Artificial Intelligence Research (PAIR) Labs, National Chiao Tung University
+### 2017-2019       Computer Vision Engineer, Coretronic Corporation
+### 2017-2017       Research Intern, Lite-On Technology Corporation
 
-# Header 1
-## Header 2
-### Header 3
+## EXTERNAL TRAINING
 
-- Bulleted
-- List
+### 2018-2018       AI Technical Professionals Program, Taiwan AI Academy (with industrial scholarship)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+### Markd C
 
 [Link](url) and ![Image](src)
 ```
