@@ -19,9 +19,21 @@ My research interests are in artificial intelligence, computer vision, machine l
 
 - AI Technical Professionals Program (with industrial scholarship), Taiwan AI Academy  *(2018)*
 
-### Markd C
+## PUBLICATIONS
+
+**Objectness-Aware Few-Shot Semantic Segmentation**
+Submitted to International Journal of Computer Vision (IJCV), 2022
+
+**Efficient Vehicle Counting Based on Time-Spatial Images by Neural Networks**
+Published in IEEE International Conference on Mobile Ad-Hoc and Smart Systems (MASS), 2021
+
+**Computer Vision-Assisted Instant Alerts in 5G**
+published in IEEE International Conference on Computer Communications and Networks (ICCCN), 2020
+
 
 [Link](url) and ![Image](src)
+
+
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
