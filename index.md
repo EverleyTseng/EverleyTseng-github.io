@@ -4,9 +4,12 @@ My research interests are in artificial intelligence, computer vision, machine l
 
 ## EDUCATION
 
-- 2021-Present    PhD, Computer Science, University of Colorado Boulder, US
-- 2019-2021       MS, Computational Intelligence, College of AI, National Chiao Tung University, Taiwan
-- 2013-2017       BS, Engineering and System Science, National Tsing Hua University, Taiwan
+- 2021-Present
+- - PhD, Computer Science, University of Colorado Boulder, US
+- 2019-2021
+- - MS, Computational Intelligence, College of AI, National Chiao Tung University, Taiwan
+- 2013-2017
+- - BS, Engineering and System Science, National Tsing Hua University, Taiwan
 
 ## WORK EXPERIENCES
 
