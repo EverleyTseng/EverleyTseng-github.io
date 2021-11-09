@@ -4,20 +4,20 @@ My research interests are in artificial intelligence, computer vision, machine l
 
 ## EDUCATION
 
-### 2021-Present    PhD, Computer Science, University of Colorado Boulder, US
-### 2019-2021       MS, Computational Intelligence, College of AI, National Chiao Tung University, Taiwan
-### 2013-2017       BS, Engineering and System Science, National Tsing Hua University, Taiwan
+- 2021-Present    PhD, Computer Science, University of Colorado Boulder, US
+- 2019-2021       MS, Computational Intelligence, College of AI, National Chiao Tung University, Taiwan
+- 2013-2017       BS, Engineering and System Science, National Tsing Hua University, Taiwan
 
 ## WORK EXPERIENCES
 
-### 2021-Present    Research Assistant, Image and Video Computing (IVC) Group, University of Colorado Boulder
-### 2019-2021       Research Assistant, Pervasive Artificial Intelligence Research (PAIR) Labs, National Chiao Tung University
-### 2017-2019       Computer Vision Engineer, Coretronic Corporation
-### 2017-2017       Research Intern, Lite-On Technology Corporation
+- 2021-Present    Research Assistant, Image and Video Computing (IVC) Group, University of Colorado Boulder
+- 2019-2021       Research Assistant, Pervasive Artificial Intelligence Research (PAIR) Labs, National Chiao Tung University
+- 2017-2019       Computer Vision Engineer, Coretronic Corporation
+- 2017-2017       Research Intern, Lite-On Technology Corporation
 
 ## EXTERNAL TRAINING
 
-### 2018-2018       AI Technical Professionals Program, Taiwan AI Academy (with industrial scholarship)
+- 2018-2018       AI Technical Professionals Program, Taiwan AI Academy (with industrial scholarship)
 
 ### Markd C
 
