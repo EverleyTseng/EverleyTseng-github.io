@@ -8,7 +8,7 @@ My research interests are in artificial intelligence, computer vision, machine l
 - MS, Computational Intelligence, College of AI, National Chiao Tung University, Taiwan *(2019-2021)*
 - BS, Engineering and System Science, National Tsing Hua University, Taiwan *(2013-2017)*
 
-## WORK EXPERIENCES
+### WORK EXPERIENCES
 
 - Research Assistant, Image and Video Computing (IVC) Group, University of Colorado Boulder *(2021-Present)*
 - Research Assistant, Pervasive Artificial Intelligence Research (PAIR) Labs, National Chiao Tung University *(2019-2021)*
