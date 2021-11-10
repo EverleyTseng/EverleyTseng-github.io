@@ -1,4 +1,4 @@
-![]()
+![](normal.png)
 ### PERSONAL STATEMENT
 
 My research interests are in artificial intelligence, computer vision, machine learning, natural language processing and IoT. I have more than four years of researching and coding experiences in artificial intelligence. My current research is focused on Image Segmentation and Few-Shot Learning.
