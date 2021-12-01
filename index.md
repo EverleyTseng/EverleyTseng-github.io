@@ -1,6 +1,6 @@
 <img src="normal.png" width="200">
 
-Hello! I'm a Ph.D. student working in the [Image and Video Computing (IVC) Group](https://home.cs.colorado.edu/~DrG/IVC_Group.html), Department of Computer Science, CU Boulder. My advisor is Professor [Danna Gurari](https://home.cs.colorado.edu/~DrG/AboutMe.html). As a Master's student, I worked in [Pervasive Artificial Intelligence Research (PAIR) Labs](https://pairlabs.ai/en/). I am broadly interested in artificial intelligence, computer vision, machine learning, natural language processing and IoT. I have more than four years of researching and coding experiences in artificial intelligence. My current research in the IVC Group is focused on Image Segmentation and Few-Shot Learning.
+Hello! I'm a Ph.D. student working in the [Image and Video Computing (IVC) Group](https://home.cs.colorado.edu/~DrG/IVC_Group.html), Department of Computer Science, CU Boulder. My advisor is Professor [Danna Gurari](https://home.cs.colorado.edu/~DrG/AboutMe.html). As a Master's student, I worked in [Pervasive Artificial Intelligence Research (PAIR) Labs](https://pairlabs.ai/en/) at National Chiao Tung University, Taiwan. I am broadly interested in artificial intelligence, computer vision, machine learning, natural language processing and IoT. I have more than four years of researching and coding experiences in artificial intelligence. My current research in the IVC Group is focused on Image Segmentation and Few-Shot Learning.
 
 ## EDUCATION
 
