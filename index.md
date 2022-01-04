@@ -21,7 +21,7 @@ Hello! I'm a Ph.D. student working in the [Image and Video Computing (IVC) Group
 
 ## PUBLICATIONS
 
-**Objectness-Aware Few-Shot Semantic Segmentation**
+**Objectness-Aware Few-Shot Semantic Segmentation** (see [full text](https://arxiv.org/pdf/2004.02945.pdf))
 Submitted to International Journal of Computer Vision (IJCV), 2022
 
 
