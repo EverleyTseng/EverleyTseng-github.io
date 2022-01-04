@@ -27,6 +27,6 @@ Hello! I'm a Ph.D. student working in the [Image and Video Computing (IVC) Group
 **Zero-shot Learning of WiFi Fingerprints**, submitted to International Joint Conference on Artificial Intelligence (IJCAI), 2022
 
 
-**Efficient Vehicle Counting Based on Time-Spatial Images by Neural Networks** ([full text](https://drive.google.com/file/d/13TwFhe1CkoYHCJWqEF8DW-3Bwvd6RdkQ/view?usp=sharing)), published in IEEE International Conference on Mobile Ad-Hoc and Smart Systems (MASS), 2021
+**Efficient Vehicle Counting Based on Time-Spatial Images by Neural Networks** (see [full text](https://drive.google.com/file/d/13TwFhe1CkoYHCJWqEF8DW-3Bwvd6RdkQ/view?usp=sharing)), published in IEEE International Conference on Mobile Ad-Hoc and Smart Systems (MASS), 2021
 
-**Computer Vision-Assisted Instant Alerts in 5G** ([full text](https://ieeexplore.ieee.org/abstract/document/9209751)), published in IEEE International Conference on Computer Communications and Networks (ICCCN), 2020
+**Computer Vision-Assisted Instant Alerts in 5G** (see [full text](https://ieeexplore.ieee.org/abstract/document/9209751)), published in IEEE International Conference on Computer Communications and Networks (ICCCN), 2020
