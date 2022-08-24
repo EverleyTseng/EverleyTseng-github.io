@@ -21,11 +21,7 @@ Hello! I'm a Ph.D. student working in the [Image and Video Computing (IVC) Group
 
 ## PUBLICATIONS
 
-**Objectness-Aware Few-Shot Semantic Segmentation** (see [full text](https://arxiv.org/pdf/2004.02945.pdf)), submitted to International Journal of Computer Vision (IJCV), 2022
-
-
-**Zero-shot Learning of WiFi Fingerprints**, submitted to International Joint Conference on Artificial Intelligence (IJCAI), 2022
-
+**VizWiz-FewShot: Locating Objects in Images Taken by People With Visual Impairments**, published in European Conference on Computer Vision (ECCV), 2022
 
 **Efficient Vehicle Counting Based on Time-Spatial Images by Neural Networks** (see [full text](https://drive.google.com/file/d/13TwFhe1CkoYHCJWqEF8DW-3Bwvd6RdkQ/view?usp=sharing)), published in IEEE International Conference on Mobile Ad-Hoc and Smart Systems (MASS), 2021
 
