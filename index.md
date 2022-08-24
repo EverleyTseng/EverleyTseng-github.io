@@ -21,7 +21,7 @@ Hello! I'm a Ph.D. student working in the [Image and Video Computing (IVC) Group
 
 ## PUBLICATIONS
 
-**VizWiz-FewShot: Locating Objects in Images Taken by People With Visual Impairments**, published in European Conference on Computer Vision (ECCV), 2022 [[pdf](https://arxiv.org/abs/2207.11810)]
+**VizWiz-FewShot: Locating Objects in Images Taken by People With Visual Impairments**, published in European Conference on Computer Vision (ECCV), 2022 [[pdf](https://arxiv.org/abs/2207.11810), [dataset](https://vizwiz.org/)]
 
 **Efficient Vehicle Counting Based on Time-Spatial Images by Neural Networks**, published in IEEE International Conference on Mobile Ad-Hoc and Smart Systems (MASS), 2021 [[pdf](https://drive.google.com/file/d/13TwFhe1CkoYHCJWqEF8DW-3Bwvd6RdkQ/view?usp=sharing)]
 
