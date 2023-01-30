@@ -1,6 +1,6 @@
 <img src="normal.png" width="200">
 
-Hello! I'm a Ph.D. student working in the [Image and Video Computing (IVC) Group](https://home.cs.colorado.edu/~DrG/IVC_Group.html), Department of Computer Science, CU Boulder. My advisor is Professor [Danna Gurari](https://home.cs.colorado.edu/~DrG/AboutMe.html). As a MS student, I worked in [Pervasive Artificial Intelligence Research (PAIR) Labs](https://pairlabs.ai/en/) at National Chiao Tung University, Taiwan. I am broadly interested in artificial intelligence, computer vision, machine learning, natural language processing and IoT. I have more than four years of researching and coding experiences in artificial intelligence. My current research in the IVC Group is focused on Image Segmentation and Few-Shot Learning.
+I’m a Ph.D. student in the Department of Computer Science, at the University of Colorado Boulder. I have more than four years of research and coding experience in artificial intelligence. I currently work as a research assistant in the [IVC Group](https://home.cs.colorado.edu/~DrG/IVC_Group.html) with Professor [Danna Gurari](https://home.cs.colorado.edu/~DrG/AboutMe.html), focusing on Image Segmentation, Few-Shot Learning, Dataset Creation, and Data Privacy. I am interested in Artificial Intelligence, Computer Vision, Machine Learning, Natural Language Processing, and IoT. I have publications in prestigious CS conferences including ECCV and CHI. My career goal is to focus on AI-related research.
 
 ## EDUCATION
 
@@ -21,7 +21,9 @@ Hello! I'm a Ph.D. student working in the [Image and Video Computing (IVC) Group
 
 ## PUBLICATIONS
 
-**VizWiz-FewShot: Locating Objects in Images Taken by People With Visual Impairments**, published in European Conference on Computer Vision (ECCV), 2022 [[pdf](https://arxiv.org/abs/2207.11810), [dataset](https://vizwiz.org/)]
+**Disability-First Design and Creation of A Dataset with Private Visual Information**, published in ACM Conference on Human Factors in Computing Systems (CHI), 2023. [[pdf](https://drive.google.com/file/d/1AYM1PO6szCUBPtfKnvn-9tkm-dXJ0Hh7/view), [supplementary](https://drive.google.com/file/d/1RoYnkCzxRE-gvZ2d0-CYQH8F7uC3r-hj/view)]
+
+**VizWiz-FewShot: Locating Objects in Images Taken by People With Visual Impairments**, published in European Conference on Computer Vision (ECCV), 2022 [[pdf](https://arxiv.org/abs/2207.11810), [supplementary](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136680563-supp.pdf), [dataset](https://vizwiz.org/)]
 
 **Efficient Vehicle Counting Based on Time-Spatial Images by Neural Networks**, published in IEEE International Conference on Mobile Ad-Hoc and Smart Systems (MASS), 2021 [[pdf](https://ieeexplore.ieee.org/document/9637752)]
 
