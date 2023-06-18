@@ -1,6 +1,7 @@
 <img src="IMG_7217.JPG" width="200">
 
-[Resume](resume.pdf)
+[Resume](Everley_Tseng_Resume_2023Jun.pdf)
+
 I’m a Ph.D. student in the Department of Computer Science, at the University of Colorado Boulder. I have more than four years of research and coding experience in artificial intelligence. I currently work as a research assistant in the [IVC Group](https://home.cs.colorado.edu/~DrG/IVC_Group.html) with Professor [Danna Gurari](https://home.cs.colorado.edu/~DrG/AboutMe.html), focusing on Image Segmentation, Few-Shot Learning, Dataset Creation, and Data Privacy. I am interested in Artificial Intelligence, Computer Vision, Machine Learning, Natural Language Processing, and IoT. I have publications in prestigious CS conferences including ECCV and CHI. My career goal is to focus on AI-related research.
 
 ## EDUCATION
