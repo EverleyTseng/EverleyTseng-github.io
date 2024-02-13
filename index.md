@@ -22,7 +22,8 @@ I’m a Ph.D. student in the Department of Computer Science, at the University o
 - AI Technical Professionals Program (with industrial scholarship), Taiwan AI Academy  *(2018)*
 
 ## PUBLICATIONS
-
+**Designing Accessible Obfuscation Support for Blind Individuals’ Visual Privacy Management**, accepted by ACM Conference on Human Factors in Computing Systems (CHI), 2023.
+ 
 **Disability-First Design and Creation of A Dataset with Private Visual Information**, published in ACM Conference on Human Factors in Computing Systems (CHI), 2023. [[pdf](https://drive.google.com/file/d/1AYM1PO6szCUBPtfKnvn-9tkm-dXJ0Hh7/view), [supplementary](https://drive.google.com/file/d/1RoYnkCzxRE-gvZ2d0-CYQH8F7uC3r-hj/view)]
 
 **VizWiz-FewShot: Locating Objects in Images Taken by People With Visual Impairments**, published in European Conference on Computer Vision (ECCV), 2022 [[pdf](https://arxiv.org/abs/2207.11810), [supplementary](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136680563-supp.pdf), [dataset](https://vizwiz.org/)]
