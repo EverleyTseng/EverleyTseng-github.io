@@ -21,6 +21,11 @@ I’m a Ph.D. student in the Department of Computer Science, at the University o
 
 - AI Technical Professionals Program (with industrial scholarship), Taiwan AI Academy  *(2018)*
 
+## Talks
+
+- Area Exam - University of Colorado Boulder [video]()
+- Vision and Color Summer Data Blast - OPTICA [page](https://www.optica.org/get_involved/technical_groups/vc/vision_and_color_summer_data_blast/)
+
 ## PUBLICATIONS
 **Designing Accessible Obfuscation Support for Blind Individuals’ Visual Privacy Management**, accepted by ACM Conference on Human Factors in Computing Systems (CHI), 2024.
  
