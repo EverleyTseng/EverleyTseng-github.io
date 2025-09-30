@@ -21,7 +21,7 @@
 
 ## WORK EXPERIENCES
 
-**AI/ML Intern**, Marvell Semiconductor, Inc., *(2025-2025)*
+**AI/ML Intern**, Marvell Semiconductor, Inc. *(2025-2025)*
 
 **Computer Vision Engineer**, Coretronic Corporation *(2017-2019)*
 
