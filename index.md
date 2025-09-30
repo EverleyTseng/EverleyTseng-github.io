@@ -13,15 +13,19 @@
 
 ## EDUCATION
 
-- **PhD**, Computer Science, University of Colorado Boulder *(2021-Present)*
-- **MS**, Computational Intelligence, College of AI, National Chiao Tung University *(2019-2021)*
-- **BS**, Engineering and System Science, National Tsing Hua University *(2013-2017)*
+**PhD**, Computer Science, University of Colorado Boulder *(2021-Present)*
+
+**MS**, Computational Intelligence, College of AI, National Chiao Tung University *(2019-2021)*
+
+**BS**, Engineering and System Science, National Tsing Hua University *(2013-2017)*
 
 ## WORK EXPERIENCES
 
-- **AI/ML Intern**, Marvell Semiconductor, Inc., *(2025-2025)*
-- **Computer Vision Engineer**, Coretronic Corporation *(2017-2019)*
-- **Research Intern**, Lite-On Technology Corporation *(2017-2017)*
+**AI/ML Intern**, Marvell Semiconductor, Inc., *(2025-2025)*
+
+**Computer Vision Engineer**, Coretronic Corporation *(2017-2019)*
+
+**Research Intern**, Lite-On Technology Corporation *(2017-2017)*
 
 ## PUBLICATIONS
 
