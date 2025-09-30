@@ -1,5 +1,5 @@
 <div style="display:flex; align-items:flex-start; gap:16px;">
-  <img src="IMG_7217.JPG" alt="Alt text" style="width:220px; max-width:40vw; height:auto; border-radius:6px;">
+  <img src="IMG_7217.JPG" alt="Alt text" style="width:180px; max-width:40vw; height:auto; border-radius:6px;">
   <div markdown="1">
    Everley is Ph.D. student in the Department of Computer Science, at the University of Colorado Boulder. She is currently work as a research assistant in the [IVC Group](https://home.cs.colorado.edu/~DrG/IVC_Group.html) with Professor Danna Gurari, focusing on Vision Language Models (VLMs), Dataset Curation, Data Privacy, Image Segmentation, and Few-Shot Learning.
 
