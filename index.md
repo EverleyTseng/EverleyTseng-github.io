@@ -1,38 +1,51 @@
-<img src="IMG_7217.JPG" width="200">
+<div style="display:flex; align-items:flex-start; gap:16px;">
+  <img src="IMG_7217.JPG" alt="Alt text" style="width:220px; max-width:40vw; height:auto; border-radius:6px;">
+  <div markdown="1">
+   Everley is Ph.D. student in the Department of Computer Science, at the University of Colorado Boulder. She is currently work as a research assistant in the [IVC Group](https://home.cs.colorado.edu/~DrG/IVC_Group.html) with Professor Danna Gurari, focusing on Vision Language Models (VLMs), Dataset Curation, Data Privacy, Image Segmentation, and Few-Shot Learning.
+
+  </div>
+</div>
+
+
+
 
 [CV](Everley_Tseng_Resume.pdf)
 
-I’m a Ph.D. student in the Department of Computer Science, at the University of Colorado Boulder. I have more than four years of research and coding experience in artificial intelligence. I currently work as a research assistant in the [IVC Group](https://home.cs.colorado.edu/~DrG/IVC_Group.html) with Professor [Danna Gurari](https://home.cs.colorado.edu/~DrG/AboutMe.html), focusing on Image Segmentation, Few-Shot Learning, Dataset Creation, and Data Privacy. I am interested in Artificial Intelligence, Computer Vision, Machine Learning, Natural Language Processing, and IoT. I have publications in prestigious CS conferences including ECCV and CHI. My career goal is to focus on AI-related research.
-
 ## EDUCATION
 
-- PhD, Computer Science, University of Colorado Boulder, US *(2021-Present)*
-- MS, Computational Intelligence, College of AI, National Chiao Tung University, Taiwan *(2019-2021)*
-- BS, Engineering and System Science, National Tsing Hua University, Taiwan *(2013-2017)*
+- **PhD**, Computer Science, University of Colorado Boulder, US *(2021-Present)*
+- **MS**, Computational Intelligence, College of AI, National Chiao Tung University, Taiwan *(2019-2021)*
+- **BS**, Engineering and System Science, National Tsing Hua University, Taiwan *(2013-2017)*
 
 ## WORK EXPERIENCES
 
-- Research Assistant, Image and Video Computing (IVC) Group, University of Colorado Boulder *(2021-Present)*
-- Research Assistant, Pervasive Artificial Intelligence Research (PAIR) Labs, National Chiao Tung University *(2019-2021)*
-- Computer Vision Engineer, Coretronic Corporation *(2017-2019)*
-- Research Intern, Lite-On Technology Corporation *(2017-2017)*
+- **AI/ML Intern**, Marvell Semiconductor, Inc., *(2025-2025)*
+- **Computer Vision Engineer**, Coretronic Corporation *(2017-2019)*
+- **Research Intern**, Lite-On Technology Corporation *(2017-2017)*
 
-## EXTERNAL TRAINING
+## PUBLICATIONS
 
-- AI Technical Professionals Program (with industrial scholarship), Taiwan AI Academy  *(2018)*
+**Visual Privacy Management with Generative AI for Blind and Low-Vision People**, Tanusree Sharma, Yu-Yun Tseng, Lotus Zhang, Ayae Ide, Kelly Avery Mack, Leah Findlater, Danna Gurari, Yang Wang. *The 26th International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS)*, 2025. \[[paper](https://arxiv.org/abs/2507.00286)\]
+
+**Acknowledging Focus Ambiguity in Visual Questions**, Chongyan Chen, Yu-Yun Tseng, Zhuoheng Li, Anush Venkatesh, Danna Gurari. *International Conference on Computer Vision (ICCV)*, 2025. \[[paper](https://arxiv.org/abs/2507.00286](https://arxiv.org/abs/2501.02201))\]
+
+**BIV-Priv-Seg: Locating Private Content in Images Taken by People With Visual Impairments**, Yu-Yun Tseng, Tanusree Sharma, Lotus Zhang, Abigale Stangl, Leah Findlater, Yang Wang, Danna Gurari. Oral presentation (top 8%), *IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)*, 2025. \[[paper](https://openaccess.thecvf.com/content/WACV2025/papers/Tseng_BIV-Priv-Seg_Locating_Private_Content_in_Images_Taken_by_People_with_WACV_2025_paper.pdf), [oral presentation](https://www.youtube.com/watch?v=78WliClpPJI)\]
+
+**Learning-Based WiFi Fingerprint Inpainting via Generative Adversarial Networks**, Yu Chan, Pin-Yu Lin, Yu-Yun Tseng, Jen-Jee Chen, Yu-Chee Tseng.
+*IEEE International Conference on Computer Communications and Networks (ICCCN)*, 2024. \[[paper](https://ieeexplore.ieee.org/document/10637537)\]
+
+**Designing Accessible Obfuscation Support for Blind Individuals’ Visual Privacy Management**, Lotus Zhang, Tanusree Sharma, Abigale Stangl, Yu-Yun Tseng, Inan Xu, Danna Gurari, Yang Wang, Leah Findlater. *ACM Conference on Human Factors in Computing Systems (CHI)*, 2024. \[[paper](https://dl.acm.org/doi/10.1145/3613904.3642713)\]
+
+**Disability-First Design and Creation of A Dataset with Private Visual Information**, Tanusree Sharma, Abigale Stangl, Lotus Zhang, Yu-Yun Tseng, Inan Xu, Leah Findlater, Danna Gurari, Yang Wang. *ACM Conference on Human Factors in Computing Systems (CHI)*, 2023. \[[paper](https://dl.acm.org/doi/10.1145/3544548.3580922)\]
+
+**VizWiz-FewShot: Locating Objects in Images Taken by People With Visual Impairments**, Yu-Yun Tseng, Alexander Bell, Danna Gurari. *European Conference on Computer Vision (ECCV)*, 2022. \[[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136680563.pdf)\]
+
+**Efficient Vehicle Counting Based on Time-Spatial Images by Neural Networks**, Yu-Yun Tseng, Tzu-Chien Hsu, Jen-Jee Chen, Yu-Chee Tseng. *IEEE International Conference on Mobile Ad-Hoc and Smart Systems (MASS)*, 2021. \[[paper](https://ieeexplore.ieee.org/document/9637752)\]
+
+**Computer Vision-Assisted Instant Alerts in 5G**, Yu-Yun Tseng, Po-Min Hsu, Jen-Jee Chen, Yu-Chee Tseng. *IEEE International Conference on Computer Communications and Networks (ICCCN)*, 2020. \[[paper](https://ieeexplore.ieee.org/document/9209751)\]
 
 ## Talks
 
-- Area Exam - University of Colorado Boulder [video]()
-- Vision and Color Summer Data Blast - OPTICA [page](https://www.optica.org/get_involved/technical_groups/vc/vision_and_color_summer_data_blast/)
+- Area Exam - University of Colorado Boulder \[[video](https://www.youtube.com/watch?v=jat4_sOnd6U)\]
+- Vision and Color Summer Data Blast - OPTICA \[[page](https://www.optica.org/get_involved/technical_groups/vc/vision_and_color_summer_data_blast/)\]
 
-## PUBLICATIONS
-**Designing Accessible Obfuscation Support for Blind Individuals’ Visual Privacy Management**, accepted by ACM Conference on Human Factors in Computing Systems (CHI), 2024.
- 
-**Disability-First Design and Creation of A Dataset with Private Visual Information**, published in ACM Conference on Human Factors in Computing Systems (CHI), 2023. [[pdf](https://drive.google.com/file/d/1AYM1PO6szCUBPtfKnvn-9tkm-dXJ0Hh7/view), [supplementary](https://drive.google.com/file/d/1RoYnkCzxRE-gvZ2d0-CYQH8F7uC3r-hj/view)]
-
-**VizWiz-FewShot: Locating Objects in Images Taken by People With Visual Impairments**, published in European Conference on Computer Vision (ECCV), 2022 [[pdf](https://arxiv.org/abs/2207.11810), [supplementary](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136680563-supp.pdf), [dataset](https://vizwiz.org/)]
-
-**Efficient Vehicle Counting Based on Time-Spatial Images by Neural Networks**, published in IEEE International Conference on Mobile Ad-Hoc and Smart Systems (MASS), 2021 [[pdf](https://ieeexplore.ieee.org/document/9637752)]
-
-**Computer Vision-Assisted Instant Alerts in 5G**, published in IEEE International Conference on Computer Communications and Networks (ICCCN), 2020 [[pdf](https://ieeexplore.ieee.org/abstract/document/9209751)]
