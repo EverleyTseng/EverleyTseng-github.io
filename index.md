@@ -8,7 +8,7 @@
 
 
 
-[CV](Everley_Tseng_Resume.pdf) • [LinkedIn](https://www.linkedin.com/in/everley-tseng/) • [Google Scholar](https://scholar.google.com/citations?user=Ul6YnP8AAAAJ) • [GitHub](https://github.com/EverleyTseng) • [Email](mailto:yu-yun.tseng@colorado.edu)
+[CV](CV_Everley_Tseng_Sep25.pdf) • [LinkedIn](https://www.linkedin.com/in/everley-tseng/) • [Google Scholar](https://scholar.google.com/citations?user=Ul6YnP8AAAAJ) • [GitHub](https://github.com/EverleyTseng) • [Email](mailto:yu-yun.tseng@colorado.edu)
 
 
 ## EDUCATION
