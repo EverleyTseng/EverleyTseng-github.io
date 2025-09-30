@@ -13,9 +13,9 @@
 
 ## EDUCATION
 
-- **PhD**, Computer Science, University of Colorado Boulder, US *(2021-Present)*
-- **MS**, Computational Intelligence, College of AI, National Chiao Tung University, Taiwan *(2019-2021)*
-- **BS**, Engineering and System Science, National Tsing Hua University, Taiwan *(2013-2017)*
+- **PhD**, Computer Science, University of Colorado Boulder *(2021-Present)*
+- **MS**, Computational Intelligence, College of AI, National Chiao Tung University *(2019-2021)*
+- **BS**, Engineering and System Science, National Tsing Hua University *(2013-2017)*
 
 ## WORK EXPERIENCES
 
