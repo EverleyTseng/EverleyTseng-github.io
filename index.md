@@ -1,8 +1,7 @@
 <div style="display:flex; align-items:flex-start; gap:16px;">
   <img src="IMG_7217.JPG" alt="Alt text" style="width:180px; max-width:40vw; height:auto; border-radius:6px;">
   <div markdown="1">
-   Everley Tseng is Ph.D. student in the Department of Computer Science, at the University of Colorado Boulder. She is currently working as a research assistant in the [IVC Group](https://home.cs.colorado.edu/~DrG/IVC_Group.html) with Professor Danna Gurari, focusing on Vision Language Models (VLMs), Dataset Curation, Data Privacy, Image Segmentation, and Few-Shot Learning.
-
+    Everley Tseng is a Ph.D. candidate in Computer Science at the University of Colorado Boulder, advised by Professor Danna Gurari in the [Image and Video Computing (IVC) Group](https://home.cs.colorado.edu/~DrG/IVC_Group.html). Her research advances computer vision through dataset-driven discovery of new problem spaces. She develops benchmarks and evaluation frameworks that expose the limitations of current vision-language models in real-world applications, especially for people who are blind or have low vision. Her work spans vision-language modeling, dataset curation, visual privacy, image segmentation, and few-shot learning, resulting in publicly released datasets such as VizWiz-FewShot and BIV-Priv-Seg. Everley is passionate about bridging academic innovation and industry-scale deployment, focusing on creating trustworthy and efficient visual AI systems that address real accessibility and privacy challenges.
   </div>
 </div>
 
