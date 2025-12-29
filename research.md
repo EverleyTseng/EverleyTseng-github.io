@@ -2,6 +2,14 @@
 title: Research & Technical Background
 ---
 
+<nav style="margin: 0.5rem 0 1rem 0;">
+  <a href="{{ '/' | relative_url }}">Home</a>
+  &nbsp;•&nbsp;
+  <a href="{{ '/research' | relative_url }}">Research</a>
+  &nbsp;•&nbsp;
+  <a href="{{ '/CV_Everley_Tseng_Sep25.pdf' | relative_url }}">CV</a>
+</nav>
+
 # Research & Technical Background
 
 ## Research Overview
