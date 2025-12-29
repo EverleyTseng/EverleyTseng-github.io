@@ -1,3 +1,13 @@
+<nav style="margin: 0.5rem 0 1rem 0;">
+  <a href="{{ '/' | relative_url }}">Home</a>
+  &nbsp;•&nbsp;
+  <a href="{{ '/research' | relative_url }}">Research</a>
+  &nbsp;•&nbsp;
+  <a href="{{ '/CV_Everley_Tseng_Sep25.pdf' | relative_url }}">CV</a>
+</nav>
+
+
+
 <div style="display:flex; align-items:flex-start; gap:16px;">
   <img src="IMG_7217.JPG" alt="Alt text" style="width:180px; max-width:40vw; height:auto; border-radius:6px;">
   <div markdown="1">
